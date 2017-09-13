@@ -8,7 +8,6 @@ void main()
 	int celcius, celciusCount=0,tempMore=0;
 	int largest=0, smallest=0;
 	double total = 0, average;
-	int i = 0;
 
 	printf("Enter the temperature (-999 to stop)");
 	scanf("%d", &celcius);
